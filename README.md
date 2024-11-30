@@ -42,3 +42,8 @@ AI 실시간 낙상감지 시스템 / 팀프로젝트		2023년 5월 - 2023년 7�
 [반려견 중고거래마켓 사이트](https://www.youtube.com/watch?v=A76W9kts5u4&list=PLqbWuGdVBJd1bukVXopWjl5mUevBtj04h&index=1) / 팀프로젝트		2021년 4월 - 2021년 7월</br>
 - Java, SpringBoot를 이용한 중고거래 웹사이트 개발</br>
 - Front-end 개발자들을 위해 API 개발</br>
+
+### 저서 및 수료증
+비제이퍼블릭 | [개발자가 되기 위해 꼭 알아야하는 IT 용어 저자](https://www.yes24.com/Product/Goods/109711067)
+정보통신산업진흥원 | 인공지능 기본과정 수료
+네이버 | 부스트코스<DATA SCIENCE> 코치스터디 : 2023
