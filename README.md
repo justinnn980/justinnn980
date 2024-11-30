@@ -9,7 +9,7 @@
 <h1>
 박준철 이용자를 128% 증가하게 만든 개발자
 </h1>
-010-2538-1519 | <justinnn980@gmail.com>	
+010-2538-1519 | justinnn980@gmail.com
 
 <h2>소개</h2>
 안녕하세요! 1년동안 이용자를 128% 증가시킨 경험이 있는 개발자 입니다. Flutter 를 사용하여 크로스플랫폼 개발을 하고 있으며, 백엔드 API도 함께 만들고 있습니다.</br>
@@ -36,6 +36,6 @@ AI 실시간 낙상감지 시스템 / 팀프로젝트		2023년 5월 - 2023년 7�
 정밀시간 프로토콜 변화 확인 사이트 / 팀프로젝트		2022년 6월 - 2022년 8월</br>
 - Html, Css, JavaScript를 이용한 웹사이트 개발</br>
 - 정밀시간 프로토콜 데이터를 활용하여 사용자가 원하는 데이터만 그래프로 확인 가능</br>
-[반려견 중고거래마켓 사이트]:<https://www.youtube.com/watch?v=A76W9kts5u4&list=PLqbWuGdVBJd1bukVXopWjl5mUevBtj04h&index=1> / 팀프로젝트		2021년 4월 - 2021년 7월</br>
+[반려견 중고거래마켓 사이트](https://www.youtube.com/watch?v=A76W9kts5u4&list=PLqbWuGdVBJd1bukVXopWjl5mUevBtj04h&index=1) / 팀프로젝트		2021년 4월 - 2021년 7월</br>
 - Java, SpringBoot를 이용한 중고거래 웹사이트 개발</br>
 - Front-end 개발자들을 위해 API 개발</br>
