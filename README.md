@@ -20,7 +20,7 @@ Back-end | Java, SpringBoot, MyBatis </br>
 Front-end | Mobile : Flutter,  Web : Html, Css, JavaScript</br>
 Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 
-<h2>프로젝트 / 포트폴리오</h2>
+<h2>프로젝트 / [포트폴리오](https://tremendous-magnesium-27a.notion.site/14853fcdc980809da504dfe2a6118728)</h2>
 키노라이츠 웹사이트 크롤링 / 개인 프로젝트		2024년 6월
 - Python,  Selenium 을 이용한 자동 크롤링 프로그램
 - 키노라이츠 웹 사이트의 영화 메타정보를 자동으로 크롤링하여 수집 및 정리
@@ -36,6 +36,6 @@ AI 실시간 낙상감지 시스템 / 팀프로젝트		2023년 5월 - 2023년 7�
 정밀시간 프로토콜 변화 확인 사이트 / 팀프로젝트		2022년 6월 - 2022년 8월
 - Html, Css, JavaScript를 이용한 웹사이트 개발
 - 정밀시간 프로토콜 데이터를 활용하여 사용자가 원하는 데이터만 그래프로 확인 가능
-반려경 중고거래마켓 사이트 / 팀프로젝트		2021년 4월 - 2021년 7월
+[반려견 중고거래마켓 사이트](https://www.youtube.com/watch?v=A76W9kts5u4&list=PLqbWuGdVBJd1bukVXopWjl5mUevBtj04h&index=1) / 팀프로젝트		2021년 4월 - 2021년 7월
 - Java, SpringBoot를 이용한 중고거래 웹사이트 개발
 - Front-end 개발자들을 위해 API 개발
