@@ -21,6 +21,7 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 
 ## 경력
 홈초이스 / [오초이스](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko)
+- OTT 서비스 </br>
 
 ### 프로젝트 / [포트폴리오](https://tremendous-magnesium-27a.notion.site/14853fcdc980809da504dfe2a6118728)
 키노라이츠 웹사이트 크롤링 / 개인 프로젝트		2024년 6월</br>
