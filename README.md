@@ -23,8 +23,7 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 홈초이스 / [오초이스](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko)
 - OTT 서비스 </br>
 
-
-### 프로젝트 / [포트폴리오](https://tremendous-magnesium-27a.notion.site/14853fcdc980809da504dfe2a6118728)
+## 프로젝트 / [포트폴리오](https://tremendous-magnesium-27a.notion.site/14853fcdc980809da504dfe2a6118728)
 키노라이츠 웹사이트 크롤링 / 개인 프로젝트		2024년 6월</br>
 - Python,  Selenium 을 이용한 자동 크롤링 프로그램</br>
 - 키노라이츠 웹 사이트의 영화 메타정보를 자동으로 크롤링하여 수집 및 정리 </br>
