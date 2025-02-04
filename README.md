@@ -7,6 +7,7 @@
 />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 [![박준철's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinnn980)](https://github.com/justinnn980/github-readme-stats)
