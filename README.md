@@ -8,9 +8,12 @@
 </a>
 
 # 박준철. 이용자를 128% 증가하게 만든 개발자
+이메일</br>
 justinnn980@gmail.com</br>
+</br>
 Github</br>
 https://github.com/justinnn980</br>
+</br>
 블로그</br>
 [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
 
