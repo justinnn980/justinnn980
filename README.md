@@ -7,6 +7,7 @@
 />
 </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # 박준철. 이용자를 128% 증가하게 만든 개발자
 이메일</br>
