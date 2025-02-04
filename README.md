@@ -8,7 +8,10 @@
 </a>
 
 # 박준철. 이용자를 128% 증가하게 만든 개발자
-justinnn980@gmail.com
+justinnn980@gmail.com</br>
+
+블로그</br>
+[https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
 
 ## 소개
 안녕하세요! 1년동안 이용자를 128% 증가시킨 경험이 있는 개발자 입니다. Flutter 를 사용하여 크로스플랫폼 개발을 하고 있으며, 백엔드 API도 함께 만들고 있습니다.</br>
