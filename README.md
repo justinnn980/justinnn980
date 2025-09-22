@@ -5,7 +5,7 @@ Github : https://github.com/justinnn980</br>
 블로그 : [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
 
 ## 요약
-### 넓은 개발 능력
+### 넓은 개발 역량
 - 웹 사이트 개발부터 AI, 데이터, 모바일까지 폭넓은 프로젝트 경험을 보유하고 있습니다.
 - 이를 통해 새로운 업무나 기술도 빠르게 습득하고 적용할 수 있습니다.
 
