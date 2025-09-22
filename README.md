@@ -58,42 +58,47 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 >[Flutter Full-Stack 앱 개발](https://github.com/justinnn980/myflutter) </br>  2025년 9월</br> 개인 프로젝트
 - 분야 : Moblie
 - 프론트부터 백엔드까지 완전한 Full-Stack 1인 앱 개발</br>
-- 카운팅 앱, 카운팅 후 데이터베이스에 저장 </br>
+- 역할 : 카운팅 앱, 카운팅 후 데이터베이스에 저장 </br>
 - Skill : Flutter, Java, Spring Boot
 
 >따릉이 사용량의 데이터 통계와 예측 </br> 2023년 9월 - 2023년 12월 </br> 대전대학교(졸업과제)
 - 분야 : Data Science
 - 따릉이 공공 데이터, 날씨데이터를 활용해 서울시 따릉이에 대한 이용량 예측과 이에 따른 거치대 수 증감 판단</br>
-- EDA 분석을 통해 이용량 데이터의 변화량 분석 날씨데이터와의 상관관계 분석</br>
-- 회귀분석 모델을 통해 거치대 수 예측 및 실제 거치대 수와 비교</br>
-- 거치대 수를 비교하여 증감 이 필요한 구역 결정</br>
+- 역할 : 
+1. EDA 분석(이용량 데이터의 변화량 분석 날씨데이터와의 상관관계 분석)</br>
+2. 회귀분석 모델(거치대 수 예측 및 실제 거치대 수와 비교)</br>
+3. 결론 도출(거치대 수를 비교하여 증감이 필요한 구역 결정)</br>
 - Skill : Python, Pandas</br>
 
 >[AI 실시간 낙상감지 시스템](https://github.com/TEAM-DSS/Human-Fall-Detection) </br> 2023년 5월 - 2023년 7월</br>[(주)지엔소프트](http://www.gn-soft.co.kr/gns/html/index.html) </br>
 - 분야 : AI</br>
 - 카메라에 인식된 사람이 넘어지는걸로 판단 될 경우 알림을 주는 시스템 개발</br>
-- Box 사이즈를 줄여 객체 감지 성능 향상</br>
-- 객체 탐지 후 낙상을 감지할수 있는 알고리즘 개발</br>
+- 역할 : 
+1. Box 사이즈를 줄여 객체 감지 성능 향상</br>
+2. 객체 탐지 후 낙상을 감지할수 있는 알고리즘 개발</br>
 - Skill : Python, Yolo V5, PyQt5
 
 >[정밀시간 프로토콜 변화 확인 사이트](https://github.com/Masterwhiece/ptp-visualization)</br>2022년 6월 - 2022년 8월</br>[(주)알티스트](https://www.rtst.co.kr/) </br>
-- 분야 : Web</br>
-- 정밀시간 프로토콜 데이터를 활용하여 사용자가 원하는 데이터만 그래프로 확인 가능</br>
+- 분야 : Web(Frontend)</br>
+- 정밀시간 프로토콜 데이터를 활용하여 사용자가 원하는 데이터만 그래프로 확인하는 웹사이트</br>
+- 역할 : 로그인 페이지 및 기능 개발
 - Skill : Html, Css, JavaScript</br>
 
 >[반려견 중고거래마켓 사이트](https://github.com/DaengDaengMarket/dignity-of-developer-2-project)</br>2021년 4월 - 2021년 7월</br>[(유튜브)개발자의 품격](https://www.inflearn.com/users/16938/@realprogrammers?srsltid=AfmBOoooGystUG2l1_FXZl7PiyZH4aVgk-KXvGP5yQ7tjnocGTXkpIFh) </br>
-- 분야 : Web</br>
+- 분야 : Web(Backend)</br>
 - 유튜버 개발자의 품격 팀프로젝트 2기를 통해 프로젝트 기획부터 개발 및 배포까지 모두 진행
-- 역할 : 백엔드 API 개발</br>
+- 역할 : 공지사항, 게시판, 신고하기, 로그인, 마이페이지 - 백엔드 API 개발</br>
 - Skill : Java, SpringBoot</br>
 
 ## 저서 및 수료증
-비제이퍼블릭 | [개발자가 되기 위해 꼭 알아야하는 IT 용어 저자](https://www.yes24.com/Product/Goods/109711067) </br>
+비제이퍼블릭 | [개발자가 되기 위해 꼭 알아야하는 IT 용어 공동 저자](https://www.yes24.com/Product/Goods/109711067) </br>
 정보통신산업진흥원 | 인공지능 기본과정 수료</br>
-네이버 | 부스트코스<DATA SCIENCE> 코치스터디 : 2023</br>
+네이버 | 부스트코스<DATA SCIENCE> 코치스터디 : 2023 수료</br>
 
 ## Other
+[대학]</br>
 대전대학교 졸업 (2017.03 ~ 2024.02) </br>
 전공 : 컴퓨터공학과 </br>복수전공 : 모빌리티AI/SW융합전공 </br></br>
-[언어] Toeic Speaking : IM1 (Intermdeidate Mid 1)
+[언어]</br>
+Toeic Speaking : IM1 (Intermdeidate Mid 1)
 
