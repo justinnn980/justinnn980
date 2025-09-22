@@ -1,5 +1,5 @@
 # 박준철 👋
-> 주소 : 서울 마구 신공덕동</br> 
+> 주소 : 서울 마포구 신공덕동</br> 
 이메일 : justinnn980@gmail.com</br>
 Github : https://github.com/justinnn980</br>
 블로그 : [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
