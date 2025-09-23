@@ -19,7 +19,7 @@
 (주)홈초이스</br>
 전국 디지털케이블TV 가입가구에 VOD 전용 프로그램을 공급하고 있는 국내 유일 사업자</br>
 2024.02 ~ 현재 (Full-Time)</br></br>
-**OTT 앱 개발 : [오초이스 안드로이드](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko) , [오초이스 아이폰](https://apps.apple.com/kr/app/%EC%98%A4%EC%B4%88%EC%9D%B4%EC%8A%A4-mobile/id6444248350)**<br>
+**OTT 앱 개발 : [오초이스 안드로이드](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko) , [오초이스 애플](https://apps.apple.com/kr/app/%EC%98%A4%EC%B4%88%EC%9D%B4%EC%8A%A4-mobile/id6444248350)**<br>
 **SKILL :** Flutter(AOS,IOS), Springboot(Backend)
 ## 프로젝트 경험
 
