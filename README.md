@@ -19,7 +19,7 @@
 (주)홈초이스</br>
 전국 디지털케이블TV 가입가구에 VOD 전용 프로그램을 공급하고 있는 국내 유일 사업자</br>
 2024.02 ~ 현재 (Full-Time)</br></br>
-**OTT 앱 개발 : [오초이스 안드로이드](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko) , [오초이스 애플](https://apps.apple.com/kr/app/%EC%98%A4%EC%B4%88%EC%9D%B4%EC%8A%A4-mobile/id6444248350)**<br>
+**OTT 앱 개발 : [오초이스 안드로이드](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko) , [오초이스 애플](https://apps.apple.com/kr/app/%EC%98%A4%EC%B4%88%EC%9D%B4%EC%8A%A4-mobile/id6444248350), [소개페이지](https://ochoice.co.kr/page/intro.php)**<br>
 **SKILL :** Flutter(AOS,IOS), Springboot(Backend)
 ## 프로젝트 경험
 
@@ -28,7 +28,7 @@
 | **기간** | 2025.01 ~ 2025.09 |
 | **세부내용** | **목적** : LG헬로비전의 기존 헬로tv앱을 오초이스 모바일 앱으로 통합하는 프로젝트</br> [주요 성과] </br> 1. 신규 헬로비전 고객 유치 </br> 2. 영토 확장을 통한 성장동력 확보 </br>[작업] </br>1. 페어링 기능 개발 </br> 2. 외부 API 연결</br> 4. 보안성 검토를 위한 Proxy(프록시) 서버 연결
 
-| 프로젝트 | **2주년 기념 그랜드 리뉴얼 프로젝트**  |
+| 프로젝트 | **[2주년 기념 그랜드 리뉴얼 프로젝트](https://pf.kakao.com/_FBxnNxj/108507893)**  |
 |----------|----------------------------------------|
 | **기간** | 2025.02 ~ 2025.03 |
 | **세부내용** | **목적** : 2주년 기념 UI/UX 개편 및 신규 이벤트 </br> [주요 성과]</br>1. 평균 DAU 888.6% 상승 </br>2. 일평균 가입자 수 지난달 대비 251.9% 증가 </br> 3. 외부 노출도 상승 </br> [작업] </br> 1. 2주년 기념 출석체크 이벤트 구현 </br> 2. 배너/카테고리 기능 확장 </br> 3. Figma 기반 UI 디자인 분석
