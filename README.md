@@ -1,7 +1,6 @@
 # 박준철 👋
 > 주소 : 서울 마포구 신공덕동</br> 
 이메일 : justinnn980@gmail.com</br>
-Github : https://github.com/justinnn980</br>
 블로그 : [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
 
 ## 요약
@@ -21,7 +20,7 @@ Github : https://github.com/justinnn980</br>
 전국 디지털케이블TV 가입가구에 VOD 전용 프로그램을 공급하고 있는 국내 유일 사업자</br>
 2024.02 ~ 현재 (Full-Time)</br></br>
 **OTT 앱 개발 : [오초이스](https://play.google.com/store/apps/details?id=com.homechoice.app.homechoice&hl=ko)**<br>
-**SKILL :** Flutter-Dart(AOS,IOS), Springboot-Java(Backend)
+**SKILL :** Flutter(AOS,IOS), Springboot(Backend)
 ## 프로젝트 경험
 
 | 프로젝트 | **오초이스N 서비스 - LG헬로비전**  |
