@@ -75,6 +75,7 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 - 역할 : 
 1. Box 사이즈를 줄여 객체 감지 성능 향상</br>
 2. 객체 탐지 후 낙상을 감지할수 있는 알고리즘 개발</br>
+3. PyQt5를 이용한 UI 개발
 - Skill : Python, Yolo V5, PyQt5
 
 >[정밀시간 프로토콜 변화 확인 사이트](https://github.com/Masterwhiece/ptp-visualization)</br>2022년 6월 - 2022년 8월</br>[(주)알티스트](https://www.rtst.co.kr/) </br>
