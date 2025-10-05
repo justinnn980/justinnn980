@@ -1,21 +1,13 @@
 # 박준철 이력서
 
-<table>
-<tr>
-<td width="50%" align="center">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200" align="left" style="margin-right: 20px;"/>
+</p>
 
-<img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200"/>
-
-</td>
-<td width="50%" align="left">
-
-**주소:** 서울 마포구 신공덕동<br>
-**이메일:** justinnn980@gmail.com<br>
+**주소:** 서울 마포구 신공덕동  
+**이메일:** justinnn980@gmail.com  
 **블로그:** [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)
 
-</td>
-</tr>
-</table>
 
 
 ## 요약
