@@ -99,5 +99,3 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 [대학]</br>
 대전대학교 졸업 (2017.03 ~ 2024.02) </br>
 전공 : 컴퓨터공학과 </br>복수전공 : 모빌리티AI/SW융합전공 </br></br>
-[언어]</br>
-Toeic Speaking : IM1 (Intermdeidate Mid 1)
