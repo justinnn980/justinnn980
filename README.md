@@ -1,23 +1,22 @@
 # 박준철 이력서
 
-<div style="display: flex; justify-content: space-between;">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<div style="width: 48%;">
+<img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200"/>
 
-### 왼쪽 내용
-![사진](https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac)
-</div>
+</td>
+<td width="50%" align="left">
 
-<div style="width: 48%;">
+**주소:** 서울 마포구 신공덕동<br>
+**이메일:** justinnn980@gmail.com<br>
+**블로그:** [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)
 
-### 오른쪽 내용
-주소 : 서울 마포구 신공덕동</br> 
-이메일 : justinnn980@gmail.com</br>
-블로그 : [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
+</td>
+</tr>
+</table>
 
-</div>
-
-</div>
 
 ## 요약
 ### 넓은 개발 역량
