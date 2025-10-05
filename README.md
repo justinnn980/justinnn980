@@ -1,23 +1,19 @@
-# 박준철 이력서
+# 박준철
+> 주소 : 서울 마포구 신공덕동</br> 
+이메일 : justinnn980@gmail.com</br>
+블로그 : [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)</br>
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200" align="left" style="margin-right: 20px;"/>
-</p>
-
-**주소:** 서울 마포구 신공덕동  
-**이메일:** justinnn980@gmail.com  
-**블로그:** [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)
-
-**지원동기**
-ㅈㅇㅇㅇ
-**자기소개**
+## 요약
 ### 넓은 개발 역량
 - 웹 사이트 개발부터 AI, 데이터, 모바일까지 폭넓은 프로젝트 경험을 보유하고 있습니다.
 - 이를 통해 새로운 업무나 기술도 빠르게 습득하고 적용할 수 있습니다.
 
-</br>
+### 뛰어난 커뮤니케이션 능력
+- 기획자·디자이너가 없는 프로젝트와 있는 프로젝트 모두에서 협업한 경험이 있습니다.
+- 이를 바탕으로 팀 간 소통을 원활히 조율하며 높은 성과를 이끌어낼 수 있습니다.
 
-
+### 고객 중심의 문제 해결 능력
+- 폭넓은 개발 경험과 뛰어난 커뮤니케이션 능력을 바탕으로, 비전공자 고객의 요구 사항을 명확히 이해하고 최적의 결과물로 구현할 수 있습니다.
 
 ## 경력
 (주)홈초이스</br>
@@ -105,4 +101,3 @@ Data / AI | Python, Yolo V5, Pandas, Selenium</br>
 전공 : 컴퓨터공학과 </br>복수전공 : 모빌리티AI/SW융합전공 </br></br>
 [언어]</br>
 Toeic Speaking : IM1 (Intermdeidate Mid 1)
-
