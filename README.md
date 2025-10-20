@@ -1,9 +1,5 @@
 # 박준철 이력서
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200" align="left" style="margin-right: 20px;"/>
-</p>
-
 **주소:** 서울 마포구 신공덕동  
 **이메일:** justinnn980@gmail.com  
 **깃허브:** [https://github.com/justinnn980](https://github.com/justinnn980)  
