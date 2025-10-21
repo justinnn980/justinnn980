@@ -1,21 +1,25 @@
 # 박준철 이력서
 
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/cf474605-d060-44b7-b7ac-316afbffd0ac" width="200" align="left" style="margin-right: 20px;"/>
+</p>
+
 **주소:** 서울 마포구 신공덕동  
 **이메일:** justinnn980@gmail.com  
 **깃허브:** [https://github.com/justinnn980](https://github.com/justinnn980)  
 **블로그:** [https://justinnn980.tistory.com/](https://justinnn980.tistory.com/)
 
-**자기소개:** 프론트부터 백엔드까지 혼자 진행하여 앱을 출시까지 진행한 경험이 있습니다. 책 출판 및 웹, AI, 데이터, 모바일 등 다양한 프로젝트를 경험하며 폭넓은 개발 역량을 쌓았고, 기획자와 디자이너가 원활히 협업할 수 있는 커뮤니케이션 능력을 갖추었습니다. 이러한 강점을 통해 고객 중심의 사고를 하여 고객의 요구사항을 정확히 이해하고, 이를 최적의 결과물로 구현할 수 있습니다.
+**자기소개:** 프론트부터 백엔드까지 혼자 진행하여 앱을 출시까지 진행한 경험이 있습니다. 책 출판 및 웹, AI, 데이터, 모바일 등 다양한 프로젝트를 경험하며 폭넓은 개발 역량을 쌓았습니다. 기획자와 디자이너가 원활히 협업할 수 있는 커뮤니케이션 능력을 갖추었습니다. 이러한 강점을 통해 고객 중심의 사고를 하여 고객의 요구사항을 정확히 이해하고, 이를 최적의 결과물로 구현할 수 있습니다.
 
 <div style="clear: both;"></div>
 
 ## 스킬
-Flutter, SpringBoot, MyBatis, JavaScript, Python, Yolo V5, Pandas, Selenium</br>
+Flutter, Python, SpringBoot, MyBatis, JavaScript,  Yolo V5, Pandas, Selenium, AWS, Render, Git, Github, Google Analytics, Figma, Slack, Notion </br>
 
 ## 경력
 (주)홈초이스</br>
-전국 디지털케이블TV 가입가구에 VOD 전용 프로그램을 공급하고 있는 국내 유일 사업자</br>
-2024.02 ~ 현재 (Full-Time)
+전국 디지털케이블TV 가입가구에 VOD 전용 프로그램을 공급 및 OTT 서비스를 진행하는 국내 유일 사업자</br>
+2024.02 ~ 2025.10
 
 ## 프로젝트 경험
 <table>
@@ -23,7 +27,7 @@ Flutter, SpringBoot, MyBatis, JavaScript, Python, Yolo V5, Pandas, Selenium</br>
   <col style="width: auto;">   <!-- 내용 열 -->
   <tr>
     <th>프로젝트</th>
-    <td><a href="https://www.lghellovision.net/product/tv/tvMainService.do?mcode=05" target="_blank">오초이스N 서비스 - LG헬로비전</a></td>
+    <td><a href="https://www.lghellovision.net/product/tv/tvMainService.do?mcode=05" target="_blank">LG헬로비전의 기존 헬로tv앱을 오초이스 모바일 앱으로 통합하는 프로젝트</a></td>
   </tr>
   <tr>
     <th>기간</th>
@@ -35,7 +39,7 @@ Flutter, SpringBoot, MyBatis, JavaScript, Python, Yolo V5, Pandas, Selenium</br>
   </tr>
   <tr>
     <th>서비스</th>
-    <td>LG헬로비전의 기존 헬로tv앱을 오초이스 모바일 앱으로 통합하는 프로젝트</td>
+    <td>오초이스N 서비스 - LG헬로비전</td>
   </tr>
   <tr>
     <th>주요 내용</th>
@@ -95,7 +99,7 @@ Flutter, SpringBoot, MyBatis, JavaScript, Python, Yolo V5, Pandas, Selenium</br>
   </tr>
   <tr>
     <th>기간</th>
-    <td>2024.10 ~ 2024.11</td>
+    <td>2024.10 ~ 현재</td>
   </tr>
   <tr>
     <th>스킬</th>
