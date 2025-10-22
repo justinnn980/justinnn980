@@ -119,7 +119,7 @@ Flutter, Python, SpringBoot, MyBatis, JavaScript,  Yolo V5, Pandas, Selenium, AW
   </tr>
   <tr>
     <th>참여인원</th>
-    <td>1명</td>
+    <td>단독</td>
   </tr>
   <tr>
     <th>스킬</th>
