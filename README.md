@@ -13,11 +13,6 @@
 
 Flutter, Python, SpringBoot, MyBatis, JavaScript, Yolo V5, Pandas, Selenium, AWS, Render, Git, Github, Google Analytics, Figma, Slack, Notion </br>
 
-## 학력
-
-대전대학교 졸업 (2017.03 ~ 2024.02) </br>
-전공 : 컴퓨터공학과 </br>복수전공 : 모빌리티AI/SW융합전공 </br>
-
 ## 저서 및 수료증
 
 비제이퍼블릭 | [개발자가 되기 위해 꼭 알아야하는 IT 용어 공동 저자](https://www.yes24.com/Product/Goods/109711067) </br>
@@ -224,3 +219,9 @@ Flutter, Python, SpringBoot, MyBatis, JavaScript, Yolo V5, Pandas, Selenium, AWS
 - 결과 :
   - 사람이 넘어지는 상황을 실시간으로 인식하고 알림을 제공하는 낙상 감지 시스템 구축
   - 모델 정확도 및 탐지 속도 개선을 통해 실시간 대응 가능한 수준의 성능 확보 -->
+
+
+## 학력
+
+대전대학교 졸업 (2017.03 ~ 2024.02) </br>
+전공 : 컴퓨터공학과 </br>복수전공 : 모빌리티AI/SW융합전공 </br>
