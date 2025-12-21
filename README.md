@@ -220,7 +220,6 @@ Flutter, Python, SpringBoot, MyBatis, JavaScript, Yolo V5, Pandas, Selenium, AWS
   - 사람이 넘어지는 상황을 실시간으로 인식하고 알림을 제공하는 낙상 감지 시스템 구축
   - 모델 정확도 및 탐지 속도 개선을 통해 실시간 대응 가능한 수준의 성능 확보 -->
 
-
 ## 학력
 
 대전대학교 졸업 (2017.03 ~ 2024.02) </br>
