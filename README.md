@@ -11,7 +11,7 @@
 
 ## 스킬
 
-Flutter, Python, SpringBoot, MyBatis, JavaScript, Yolo V5, Pandas, Selenium, AWS, Render, Git, Github, Google Analytics, Figma, Slack, Notion </br>
+Flutter, SpringBoot, Python, MyBatis, JavaScript, Yolo V5, Pandas, Selenium, AWS, Render, Git, Google Analytics, Google adMob, Slack </br>
 
 ## 저서 및 수료증
 
